@@ -1,0 +1,245 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two prayers to be taught unto children at school; which also may be used in families, the singular number being turned into the plurall. Together with a form of blessing God, before, and after, meat.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06321</idno>
+            <idno type="STC">Wing T3528A</idno>
+            <idno type="STC">ESTC R185833</idno>
+            <idno type="EEBO-CITATION">52529046</idno>
+            <idno type="OCLC">ocm 52529046</idno>
+            <idno type="VID">179172</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06321)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179172)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2779:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two prayers to be taught unto children at school; which also may be used in families, the singular number being turned into the plurall. Together with a form of blessing God, before, and after, meat.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Mason,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1672.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: tightly bound with slight loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of Scotland --  Prayer-books and devotions --  17th century.</term>
+               <term>Christian children --  Scotland --  Prayer-books and devotions --  17th century.</term>
+               <term>Grace at meals --  Christianity --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:179172:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 68 -->
+            <pb facs="tcp:179172:1"/>
+            <!-- PDF PAGE 68 -->
+            <pb facs="tcp:179172:2"/>
+            <!-- PDF PAGE 69 -->
+            <pb facs="tcp:179172:2"/>
+            <!-- PDF PAGE 69 -->
+            <pb facs="tcp:179172:3"/>
+            <!-- PDF PAGE 70 -->
+            <pb facs="tcp:179172:3" rendition="simple:additions"/>
+            <!-- PDF PAGE 70 -->
+            <p>TWO PRAYERS TO BE Taught unto Chil<g ref="char:EOLhyphen"/>dren at School; Which alſo may be uſed in Families, The ſingular number be<g ref="char:EOLhyphen"/>ing turned into the plurall. Together vvith a form of Bleſſing God, before, and after, meat.</p>
+            <p>
+               <hi>EDINB<g ref="char:V">Ʋ</g>RGH,</hi> Printed for <hi>John Maſon,</hi> 1672.</p>
+         </div>
+      </front>
+      <body>
+         <div n="morning" type="prayer">
+            <pb facs="tcp:179172:4"/>
+            <!-- PDF PAGE 71 -->
+            <head>Morning Prayer.</head>
+            <p>O God, I praiſe thee, for the crea<g ref="char:EOLhyphen"/>tion of the World, and for the Re<g ref="char:EOLhyphen"/>demption of mankind by the Lord Jeſus, and for thy many favours beſtowed on me: Thou didst ſafely take me from the womb, and hast ever ſince cared for me thou haſt by thy mercie cauſed me to b<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> born within thy Church, where I wa<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> early given to thee in baptiſm: thou ha<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> afforded me the means of grace, and ca<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>led me to the hope of glory.</p>
+            <p>But, O moſt mercifull Father, <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a poor and miſerable ſinner, conceive<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in ſin, and brought forth in iniquity have gone aſtray from thee: I have <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb facs="tcp:179172:4"/>
+               <!-- PDF PAGE 71 -->cared to know thee, and do thy will bu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> have done mine own will, and followed my fooliſh and ſinfull inclinations; and do therefore deſerve thy wrath and curſe.</p>
+            <p>O Lord, have mercy upon me: turn me unto thee, and grant me repentance, and forgiveneſſe of all my ſins for Jeſus ſake: Let it from henceforth become my chiefeſt care to pleaſe thee, and to ſeek thy kingdom and righteouſneſſe: worke in me a true faith, a lively hope, and a fer<g ref="char:EOLhyphen"/>vent charitie: make me humble, meek<g ref="char:punc">▪</g> patient, ſober and just, kind and loving to all men, ſubmiſſive and obedient to them that are over me, and well content and thankfull in every condition of life: grant that I may dayly grow in knowing, <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oving, fearing, and obeying thee: Creat <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n me a clean heart, O God, and renew <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> right ſpirit within me.</p>
+            <pb facs="tcp:179172:5"/>
+            <!-- PDF PAGE 72 -->
+            <p>I thank thee, O Lord, for thy care of <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e this night; watch over me this day: keep me mindfull that I am alwayes in thy ſight, that I may be in thy fear all the day long; and grant that through the whole courſe of my life, I may be holy and harmleſſe in all manner of converſation, that when this ſhort and frail life is at an end, I may be made partaker of e<g ref="char:EOLhyphen"/>verlaſting life, through the merits of Jeſus Chriſt our Lord, in whoſe name and words I pray. <hi>Our Father which art in Heaven,</hi> &amp;c.</p>
+         </div>
+         <div n="evening" type="prayer">
+            <head>Evening Prayer.</head>
+            <p>MOſt Gracious God, What ſha<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> I render unto thee for thy man and great benefits beſtowed on me<g ref="char:punc">▪</g> Though I have been an undutifull an<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb facs="tcp:179172:5"/>
+               <!-- PDF PAGE 72 -->diſobedient ſervant to thee, thou haſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> continued thy care and kindneſſe for m<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ever ſince I was born, and haſt preſerv<g ref="char:EOLhyphen"/>ed me this day: let me never forget thy goodneſſe, but grant that thereby I may be led to Repentance and amend<g ref="char:EOLhyphen"/>ment of life. Preſerve me from every thing that is diſpleaſing to thee: O Lord, keep me from curſing, ſwearing and ly<g ref="char:EOLhyphen"/>ing, from pride, ſtubbornneſſe, and idle<g ref="char:EOLhyphen"/>neſſe; worke in me an utter diſlike of all uncleanneſſe, of gluttony and drun<g ref="char:EOLhyphen"/>kenneſſe, of malice and envy, of ſtrife and contention, of deceit and covetouſneſſe: give me grace to deny all ungodlineſſe and worldly luſts, and to live godly, righteouſly and ſoberly in this preſent world: cauſe me to underſtand and conſider the laws and life of Jeſus, that I
+<pb facs="tcp:179172:6"/>
+               <!-- PDF PAGE 73 -->may do his will, and follow his ſteps: let <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ever the cares of this life, nor the love of <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iches, nor evil company, nor the corrupt <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cuſtoms of the world withdraw me from <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he obedience of thy laws; but ſtrengthen, and establiſh me by thy holy Spirit that I may live and die thy faithfull ſervant.</p>
+            <p>O Lord, ſend thy Goſpel through the world: poure out plentifully the Spirit of truth, holineſſe and peace on all thy people. Bleſſe this Church and King<g ref="char:EOLhyphen"/>dom; preſerve the King, the Queen, and all the Royall Familie: guide our Judges and Magiſtrates: ſanctifie and aſſiſt the Ministers of the Goſpel: Viſit all that are in trouble, and ſanctifie their afflictions to them: be gracious to all my kindred, friends and neighbours, and bleſſe and forgive all mine enemies.</p>
+            <pb facs="tcp:179172:6"/>
+            <!-- PDF PAGE 73 -->
+            <p>Lord, watch over me this night, and <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eep me ever mindfull that I am ſhort<g ref="char:EOLhyphen"/>ie to die, and come to Judgement, that may without delay turn to thee, and <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſſe the time of my ſojourning here in fear. Good Lord, hear me, and grant theſe my deſires, and what elſe thou knoweſt to be needfull for me, for the <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ake of Jeſus, in whoſe name and words I pray, <hi>Our Father,</hi> &amp;c.</p>
+         </div>
+         <div n="before eating" type="prayer">
+            <head>Grace before Meat.</head>
+            <p>O Lord, be mercifull to us, and pardon our ſins: ſanctify theſe thy good benefits, that we, by the ſo<g ref="char:EOLhyphen"/>ber and thankful uſe of them, may b<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> enabled for thy ſervice, through Je<g ref="char:EOLhyphen"/>ſus Chriſt our Lord and Saviour Amen.</p>
+         </div>
+         <div n="after eating" type="prayer">
+            <pb facs="tcp:179172:7" rendition="simple:additions"/>
+            <!-- PDF PAGE 74 -->
+            <head>Grace after meat.</head>
+            <p>WE thank and praiſe thee, <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Lord, the giver of all goo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> who haſt at this time fed our bodie<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſtir up in us a greater care for ou<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſouls, and grant that our ſhort live<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which are ſo carefully ſuſtained b<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thy bounty, may be ſpent in doin<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thy will: lead us ſafely through thi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> vain and ſinfull world, in which w<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> are pilgrims and ſtrangers, and a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> length bring us to everlaſting reſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> through Jeſus Chriſt. Amen.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:179172:7"/>
+            <!-- PDF PAGE 74 -->
+            <pb facs="tcp:179172:8"/>
+            <!-- PDF PAGE 75 -->
+            <pb facs="tcp:179172:8"/>
+            <!-- PDF PAGE 75 -->
+         </div>
+      </body>
+   </text>
+</TEI>
